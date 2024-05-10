@@ -4,4 +4,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I%20like%20banacoffee&section=footer" />
 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=CI/CD_JENKINS&logoColor=white">
+<img src="https://img.shields.io/badge/aaaaa-4A154B?style=plastic&logo=CI/CD_JENKINS&logoColor=white">
