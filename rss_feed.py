@@ -32,7 +32,7 @@ class FeedWindow(QWidget):
 
         # 여러 개의 RSS 피드 URL 리스트
         feed_urls = [
-            'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114',
+            #'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114',
             'https://www.yonhapnewstv.co.kr/browse/feed/',
             'https://biz.heraldcorp.com/common_prog/rssdisp.php?ct=010000000000.xml',
             'https://www.mk.co.kr/rss/30000001/',
